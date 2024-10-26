@@ -1,0 +1,16 @@
+{
+  "name": "shikshasetu",
+  "version": "1.0.0",
+  "description": "Made by Team Shaurya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "Team shaurya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
